@@ -1,11 +1,10 @@
 ## Olaa! Sou Raphael Jeronimo 
- <div>
-  <a href="https://github.com/raphaje">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaje&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaje&layout=compact&langs_count=7&theme=ayu-mirage"/>
-</div>
-<div style="display: inline_block"><br>
- <img align="center" alt="Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+
+
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
