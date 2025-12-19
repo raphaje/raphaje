@@ -14,7 +14,7 @@
   </div>
   
   ##
-<img src="https://raw.githubusercontent.com/raphaje/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/raphaje/raphaje/output/snake.svg" alt="Snake animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
