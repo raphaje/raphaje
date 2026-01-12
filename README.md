@@ -5,7 +5,7 @@
   <a href="https://github.com/raphaje">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaje&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/> -->
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaje&langs_count=7&theme=ayu-mirage"/> -->
-    <img href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=raphaje&theme=dark&locale=pt_BR&short_numbers=true" alt="GitHub Streak" /></img>
+    <img href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=raphaje&theme=dark&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></img>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
